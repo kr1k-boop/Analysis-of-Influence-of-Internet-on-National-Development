@@ -14,7 +14,7 @@ This data is collected by the The Economist every year. The dataset used for thi
 
 The literature survey that was conducted before finalising the problem statement is present above, and it consists of the summaries of related work that we studied, as well as a report of the EDA (cleaning and visualisation), and the finalised problem statement with additional context.
 
-The EDA Notebook needs to be run on the above dataset to obtained the cleaned and transformed dataset. This dataset must be loaded on the Models_DA Notebook to build and evaluate the four different models that were used to study this data: 
+The EDA Notebook needs to be run on the above dataset to obtain the cleaned and transformed dataset. This dataset must be loaded on the Models_DA Notebook to build and evaluate the four different models that were used to study this data: 
   1. MLR
   2. Lasso Regression
   3. Ridge Regression
